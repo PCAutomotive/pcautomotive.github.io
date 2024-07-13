@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://pcautomotive.github.io"
 
 github:
-  username: pcautomotive # change to your github username
+  username: PCAutomotive # change to your github username
 
 twitter:
-  username: pcautomotive # change to your twitter username
+  username: PCAutomotive # change to your twitter username
 
 social:
   # Change to your full name.
